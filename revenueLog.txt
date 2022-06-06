@@ -1,0 +1,6 @@
+2022-06-06 23:18:21, 
+The total amount paid since start of program: 30
+2022-06-06 23:18:22, 
+The total amount paid since start of program: 60
+2022-06-06 23:18:22, 
+The total amount paid since start of program: 90

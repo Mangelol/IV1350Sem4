@@ -1,0 +1,60 @@
+2022-06-06 23:18:18, Exception thrown: Connection to database failed
+se.kth.iv1350.pos.integration.InventoryException: Connection to database failed
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:87)
+	at se.kth.iv1350.pos.integration.Inventory.findItem(Inventory.java:42)
+	at se.kth.iv1350.pos.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:57)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:34)
+Caused by: java.sql.SQLException
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:76)
+	... 4 more
+2022-06-06 23:18:18, Exception thrown: Connection to database failed
+se.kth.iv1350.pos.integration.InventoryException: Connection to database failed
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:87)
+	at se.kth.iv1350.pos.integration.Inventory.findItem(Inventory.java:42)
+	at se.kth.iv1350.pos.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:68)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:34)
+Caused by: java.sql.SQLException
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:76)
+	... 4 more
+2022-06-06 23:18:21, Exception thrown: Connection to database failed
+se.kth.iv1350.pos.integration.InventoryException: Connection to database failed
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:87)
+	at se.kth.iv1350.pos.integration.Inventory.findItem(Inventory.java:42)
+	at se.kth.iv1350.pos.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:57)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:34)
+Caused by: java.sql.SQLException
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:76)
+	... 4 more
+2022-06-06 23:18:21, Exception thrown: Connection to database failed
+se.kth.iv1350.pos.integration.InventoryException: Connection to database failed
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:87)
+	at se.kth.iv1350.pos.integration.Inventory.findItem(Inventory.java:42)
+	at se.kth.iv1350.pos.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:68)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:34)
+Caused by: java.sql.SQLException
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:76)
+	... 4 more
+2022-06-06 23:18:22, Exception thrown: Connection to database failed
+se.kth.iv1350.pos.integration.InventoryException: Connection to database failed
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:87)
+	at se.kth.iv1350.pos.integration.Inventory.findItem(Inventory.java:42)
+	at se.kth.iv1350.pos.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:57)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:34)
+Caused by: java.sql.SQLException
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:76)
+	... 4 more
+2022-06-06 23:18:22, Exception thrown: Connection to database failed
+se.kth.iv1350.pos.integration.InventoryException: Connection to database failed
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:87)
+	at se.kth.iv1350.pos.integration.Inventory.findItem(Inventory.java:42)
+	at se.kth.iv1350.pos.controller.Controller.registerItem(Controller.java:73)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:68)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:34)
+Caused by: java.sql.SQLException
+	at se.kth.iv1350.pos.integration.Inventory.checkForMatchingItemInInventory(Inventory.java:76)
+	... 4 more
